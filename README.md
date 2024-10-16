@@ -29,3 +29,7 @@ npm install sabaccui
 
 Visit our [Quick Start Guide](https://www.sabaccui.com/pro/getting-started/quick-start) for detailed installation and usage instructions.
 
+## Templates
+
+- [Empty Boilerplate](https://www.sabaccui.com/pro/templates/empty)
+- [SaaS Landing Page Template](https://www.sabaccui.com/pro/templates/startup)
