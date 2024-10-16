@@ -2,6 +2,8 @@
 
 SabaccUI is a powerful, customizable component library designed to accelerate modern web development by seamlessly integrating Nuxt + Storyblok.
 
+![SabaccUI teaser](/sabaccui_banner.png)
+
 ## 🚀 Features
 
 - **Pre-built Components**: A comprehensive library of customizable Storyblok "bloks" ready for immediate use.
